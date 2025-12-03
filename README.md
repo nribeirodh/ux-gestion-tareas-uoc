@@ -2,6 +2,8 @@ Este repositorio recoge las PECs de la asignatura **Interacción Persona–Orden
 Todo el trabajo gira alrededor del diseño de una herramienta de gestión de tareas
 (similar a Asana/Notion/Jira), y utilizando figma para realizar un mejor prototipo.
 
+Prototipado: https://www.figma.com/design/fV56201AHQp0kpJ5zWVovt/Prototipo-ipo?node-id=37-195&t=fxFJDcCmRgvzVhaj-0
+
 
 # Reto 1 – Investigación y perfiles
 
